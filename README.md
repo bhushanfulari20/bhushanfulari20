@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhushan Fulari
+# Hi 👋, I'm Bhushan Fulari  • Welcome to my GitHub Profile.
 
 <div align="center">
 
