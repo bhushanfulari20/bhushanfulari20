@@ -1,4 +1,5 @@
-# Hi 👋, I'm Bhushan Fulari  • Welcome to my GitHub Profile.
+# Hi 👋, I'm Bhushan Fulari
+### Welcome to my GitHub Profile!
 
 <div align="center">
 
@@ -16,11 +17,74 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300"/>
 
-🎓 B.Tech AI & ML Student
-💻 Learning Programming and AI/ML Basics
-🚀 Interested in Artificial Intelligence and Real-World Projects
-🌱 Currently learning Machine Learning and Development
-⚡ Building projects and improving coding skills daily
+I'm a first-year B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **R. C. Patel Institute of Technology (RCPIT)**. With a strong interest in the evolving landscape of AI, I'm actively building a foundation in Python programming, data structures, and core ML concepts.
+
+I believe in learning by doing — through hands-on projects, coding challenges, and real-world problem solving. I'm particularly drawn to how AI can drive innovation across industries and create meaningful impact.
+
+I value **curiosity**, **collaboration**, and **continuous growth** — and I'm always open to connecting with professionals, mentors, and fellow learners in the tech community. 🚀
+
+---
+
+# 🎓 Education
+
+<table>
+<tr>
+<td><b>🏛️ Institution</b></td>
+<td>R. C. Patel Institute of Technology (RCPIT)</td>
+</tr>
+<tr>
+<td><b>📖 Degree</b></td>
+<td>B.Tech – Artificial Intelligence & Machine Learning</td>
+</tr>
+<tr>
+<td><b>📅 Duration</b></td>
+<td>2025 – Present</td>
+</tr>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Shirpur, Maharashtra, India</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔭 Vision
+
+> *"Build skills today that solve real problems tomorrow."*
+
+I envision becoming an AI/ML engineer who doesn't just write code — but builds intelligent solutions that create real-world impact. I aim to bridge the gap between cutting-edge research and practical applications, contributing to a future where AI drives positive change across industries and communities.
+
+</td>
+<td width="50%">
+
+## 🎯 Goals
+
+- 🤖 Master core **Machine Learning & Deep Learning** concepts
+- 🛠️ Build **practical AI projects** that address real-world challenges
+- 💼 Land a meaningful **AI/ML internship** to gain industry exposure
+- 🌍 Contribute to **Open Source** and the broader tech community
+- 📈 Keep growing — one project, one problem, one day at a time
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Mission
+
+To grow from a curious student into a skilled AI/ML engineer —
+by learning consistently, building purposefully, and contributing meaningfully
+to the tech community and beyond.
+
+- 📘 Learn something new every single day
+- 🛠️ Build projects that solve real problems
+- 🤝 Collaborate, share knowledge, and grow together
+- 🌍 Use AI for positive, real-world impact
 
 ---
 
@@ -105,6 +169,20 @@
 
 ---
 
+# 💻 Coding Journey
+
+I started coding with a simple curiosity — *"How do machines think?"*
+That question led me to Python, then data, then AI.
+Every line of code I write brings me closer to building something meaningful.
+
+- 🐍 Started with **Python** as my first language
+- 🧠 Exploring **Machine Learning** algorithms hands-on
+- 🔧 Building small projects to strengthen logic and problem-solving
+- 📂 Maintaining clean code and version control with **Git & GitHub**
+- 🏃 Practicing daily — because consistency beats talent
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -151,7 +229,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
-## ☀ Solar Detection System
+## ☀️ Solar Detection System
 A project focused on solar detection and smart system monitoring.
 
 ---
@@ -167,16 +245,6 @@ A project focused on solar detection and smart system monitoring.
 - Git & GitHub
 - AI Project Building
 - Problem Solving
-
----
-
-# 🎯 Goals
-
-✅ Build AI/ML projects
-✅ Improve programming skills
-✅ Learn Deep Learning
-✅ Get AI/ML Internship
-✅ Contribute to Open Source
 
 ---
 
