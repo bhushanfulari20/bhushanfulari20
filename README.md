@@ -97,6 +97,9 @@ to the tech community and beyond.
 <a href="https://github.com/bhushanfulari20">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.instagram.com/bhushan__fulari._.20">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -111,61 +114,25 @@ to the tech community and beyond.
 
 ## 🚀 Languages
 
-
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-
-
-
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-
-
-
-
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-
-
 
 ---
 
 ## 🤖 AI / ML Learning
 
-
-
 ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge&logo=numpy)
-
-
-
-
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-
-
-
-
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-
-
 
 ---
 
 ## 🛠 Tools & Technologies
 
-
-
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-
-
-
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-
-
-
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
-
 
 ---
 
@@ -205,21 +172,34 @@ Every line of code I write brings me closer to building something meaningful.
 
 # 📈 Contribution Graph
 
-[
+[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20&theme=react-dark)](https://github.com/bhushanfulari20)
 
-![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20&theme=react-dark)
+---
 
-](https://github.com/bhushanfulari20)
+# 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-
-
 ![](https://github-profile-trophy.vercel.app/?username=bhushanfulari20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 ---
 
@@ -260,10 +240,6 @@ I enjoy learning new technologies and building practical AI-based projects 🚀
 
 <div align="center">
 
-
-
 ![](https://komarev.com/ghpvc/?username=bhushanfulari20&color=blueviolet&style=for-the-badge)
-
-
 
 </div>
