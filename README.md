@@ -107,32 +107,75 @@ to the tech community and beyond.
 # 💻 Tech Stack
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" title="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" title="Java"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" title="C"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" title="C++"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" title="GitHub"/>
 </div>
 
 ## 🚀 Languages
 
+
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+
+
+
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+
+
+
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+
+
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
 
 ---
 
 ## 🤖 AI / ML Learning
 
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge&logo=numpy)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+
+
+
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+
+
 
 ---
 
 ## 🛠 Tools & Technologies
 
+
+
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+
 
 ---
 
@@ -172,7 +215,11 @@ Every line of code I write brings me closer to building something meaningful.
 
 # 📈 Contribution Graph
 
-[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20&theme=react-dark)](https://github.com/bhushanfulari20)
+[
+
+![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20&theme=react-dark)
+
+](https://github.com/bhushanfulari20)
 
 ---
 
@@ -199,7 +246,11 @@ Every line of code I write brings me closer to building something meaningful.
 
 # 🏆 GitHub Trophies
 
+
+
 ![](https://github-profile-trophy.vercel.app/?username=bhushanfulari20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ---
 
@@ -240,6 +291,10 @@ I enjoy learning new technologies and building practical AI-based projects 🚀
 
 <div align="center">
 
+
+
 ![](https://komarev.com/ghpvc/?username=bhushanfulari20&color=blueviolet&style=for-the-badge)
+
+
 
 </div>
