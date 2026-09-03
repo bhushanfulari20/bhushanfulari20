@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:00FF9C&height=220&section=header&text=Bhushan%20Fulari&fontSize=55&fontColor=00FF9C&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=E0E0E0&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation - Space Grotesk / JetBrains Mono style, violet + terminal green -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+AI+%2F+ML+Engineer+in+training_;%3E+Building+intelligent+systems_;%3E+Second-Year+B.Tech+%40+RCPIT_;%3E+Open+to+internships+%26+collabs_" alt="Typing SVG" />
 </a>
@@ -15,6 +17,7 @@
 <br/><br/>
 
 <!-- Socials -->
+
 <a href="https://www.linkedin.com/in/bhushan-fulari/">
   <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0A0A0A"/>
 </a>
@@ -30,8 +33,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhushanfulari20&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/bhushanfulari20?style=for-the-badge&color=00FF9C&labelColor=0A0A0A&logo=github&logoColor=00FF9C)
+![Profile Views](https://komarev.com/ghpvc/?username=bhushanfulari20\&color=8a2be2\&style=for-the-badge\&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/bhushanfulari20?style=for-the-badge\&color=00FF9C\&labelColor=0A0A0A\&logo=github\&logoColor=00FF9C)
 
 </div>
 
@@ -65,8 +68,8 @@ Off the codebase, I'm sharpening my DSA fundamentals (C++ STL → Striver's A2Z 
 
 <div align="center">
 
-| 🏛️ Institution | 📖 Degree | 📅 Duration | 📍 Location |
-|:---:|:---:|:---:|:---:|
+|           🏛️ Institution           |            📖 Degree           |   📅 Duration  |      📍 Location     |
+| :---------------------------------: | :----------------------------: | :------------: | :------------------: |
 | R. C. Patel Institute of Technology | B.Tech – AI & Machine Learning | 2025 – Present | Shirpur, Maharashtra |
 
 </div>
@@ -88,11 +91,11 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 
 ### 🎯 Goals
 
-- 🤖 Master **ML & Deep Learning** fundamentals
-- 🛠️ Ship **practical AI projects**, not just tutorials
-- 💼 Land a meaningful **AI/ML internship**
-- 🌍 Contribute to **open source**
-- 📈 Grow — one commit at a time
+* 🤖 Master **ML & Deep Learning** fundamentals
+* 🛠️ Ship **practical AI projects**, not just tutorials
+* 💼 Land a meaningful **AI/ML internship**
+* 🌍 Contribute to **open source**
+* 📈 Grow — one commit at a time
 
 </td>
 </tr>
@@ -104,26 +107,19 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark" />
+**Languages** <br/> <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark" />
 
 <br/><br/>
 
-**AI / ML & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv&theme=dark" />
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=00FF9C)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=8A2BE2)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=00FF9C)
-![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=E0E0E0)
+**AI / ML & Data** <br/> <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv&theme=dark" /> <br/>
+![NumPy](https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square\&logo=numpy\&logoColor=00FF9C)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square\&logo=pandas\&logoColor=8A2BE2)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0A0A0A?style=flat-square\&logo=scikitlearn\&logoColor=00FF9C)
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square\&logo=flask\&logoColor=E0E0E0)
 
 <br/>
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,flask&theme=dark" />
+**Tools & Platforms** <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,flask&theme=dark" />
 
 </div>
 
@@ -135,13 +131,13 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320"/>
 
-| Project | Description | Stack |
-|---|---|---|
-| ☀️ **Solar Detection System** | Smart detection & monitoring system | Python |
-| 🌾 **AgroSense** | Full-stack agriculture platform with a 10-endpoint Flask REST API | Python · Flask · HTML/CSS |
-| 🏥 **MediAssist** *(in progress)* | Symptom-to-specialist recommender using NLP/text classification | Python · NLP · Flask |
-| 🅿️ **Smart Parking System** *(in progress)* | OpenCV-based vacant parking slot detection | Python · OpenCV |
-| 🧩 **LeetCode Solutions Repo** | Java solutions with an automated README progress tracker via GitHub Actions | Java · GitHub Actions |
+| Project                                      | Description                                                                 | Stack                     |
+| -------------------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
+| ☀️ **Solar Detection System**                | Smart detection & monitoring system                                         | Python                    |
+| 🌾 **AgroSense**                             | Full-stack agriculture platform with a 10-endpoint Flask REST API           | Python · Flask · HTML/CSS |
+| 🏥 **MediAssist** *(in progress)*            | Symptom-to-specialist recommender using NLP/text classification             | Python · NLP · Flask      |
+| 🅿️ **Smart Parking System** *(in progress)* | OpenCV-based vacant parking slot detection                                  | Python · OpenCV           |
+| 🧩 **LeetCode Solutions Repo**               | Java solutions with an automated README progress tracker via GitHub Actions | Java · GitHub Actions     |
 
 </div>
 
@@ -160,7 +156,7 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 
 <br/>
 
-[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20&theme=react-dark&bg_color=0D0221&color=00FF9C&line=8A2BE2&point=E0E0E0&hide_border=true)](https://github.com/bhushanfulari20)
+[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanfulari20\&theme=react-dark\&bg_color=0D0221\&color=00FF9C\&line=8A2BE2\&point=E0E0E0\&hide_border=true)](https://github.com/bhushanfulari20)
 
 </div>
 
@@ -169,20 +165,24 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 <h2 align="center">🐍 // CONTRIBUTION_SNAKE</h2>
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/bhushanfulari20/bhushanfulari20/output/github-contribution-grid-snake.svg"
+ alt="GitHub Contribution Snake Animation"
+ width="100%"
+/> </picture>
+
 </div>
 
 ---
@@ -200,10 +200,10 @@ I envision becoming an AI/ML engineer who doesn't just write code, but ships int
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320"/>
 
-![](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-0A0A0A?style=for-the-badge&logoColor=00FF9C)
-![](https://img.shields.io/badge/-Machine%20Learning-0A0A0A?style=for-the-badge&logoColor=8A2BE2)
-![](https://img.shields.io/badge/-NLP-0A0A0A?style=for-the-badge&logoColor=00FF9C)
-![](https://img.shields.io/badge/-Computer%20Vision-0A0A0A?style=for-the-badge&logoColor=8A2BE2)
+![](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-0A0A0A?style=for-the-badge\&logoColor=00FF9C)
+![](https://img.shields.io/badge/-Machine%20Learning-0A0A0A?style=for-the-badge\&logoColor=8A2BE2)
+![](https://img.shields.io/badge/-NLP-0A0A0A?style=for-the-badge\&logoColor=00FF9C)
+![](https://img.shields.io/badge/-Computer%20Vision-0A0A0A?style=for-the-badge\&logoColor=8A2BE2)
 
 </div>
 
